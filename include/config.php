@@ -1,5 +1,5 @@
 <?php
-$host     = "localhost";    // Nama host
-$username = "root";         // Username database
-$password = "";   // Password database
-$database = "ams_native";   // Nama database
+$host     = "localhost";    // IAI Rokan
+$username = "root";         // institutagamaislamrokan2023@gmail.com
+$password = "";   // IAIR2023
+$database = "ams_native";   // IAI Rokan
